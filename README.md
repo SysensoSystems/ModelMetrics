@@ -33,3 +33,13 @@ modelMetrics.modelParameters - list the model parameters from base, model and ma
 
 Example:
 >>modelMetrics = getModelMetrics('sldemo_autotrans')
+
+
+
+MATLAB Release Compatibility: Created with R2015b, Compatible with R2015b and later releases
+
+Platform Compatibility: Windows macOS Linux 
+
+Developed by: Sysenso Systems, https://sysenso.com/
+
+Contact: contactus@sysenso.com
